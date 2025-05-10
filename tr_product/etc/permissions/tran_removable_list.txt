@@ -1,0 +1,4 @@
+com.transsion.compass
+com.transsion.healthlife
+com.transsion.letswitch
+com.rlk.weathers

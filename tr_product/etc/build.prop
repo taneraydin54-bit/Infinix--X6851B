@@ -1,0 +1,40 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.tr_product.brand=Infinix
+ro.product.tr_product.device=Infinix-X6851B
+ro.product.tr_product.manufacturer=INFINIX
+ro.product.tr_product.model=Infinix X6851B
+ro.product.tr_product.name=X6851B-OP
+ro.tr_product.build.date=Thu May  1 11:06:07 CST 2025
+ro.tr_product.build.date.utc=1746068767
+ro.tr_product.build.fingerprint=Infinix/X6851B-OP/Infinix-X6851B:15/AP3A.240905.015.A2/116144:user/release-keys
+ro.tr_product.build.id=AP3A.240905.015.A2
+ro.tr_product.build.tags=release-keys
+ro.tr_product.build.type=user
+ro.tr_product.build.version.incremental=116144
+ro.tr_product.build.version.release=15
+ro.tr_product.build.version.release_or_codename=15
+ro.tr_product.build.version.sdk=35
+####################################
+# from variable PRODUCT_TR_PRODUCT_PROPERTIES
+####################################
+ro.tran.tr_product.support=1
+ro.tran.tr_product.version=OP-Native001
+#transsion feature start
+ro.tran_super_fast_charge_switch.support=1
+ro.product.name=X6851B-OP
+ro.tran.bom=X6851B_P865A_C
+ro.product.tran.version.release=X6851B-15.0.1.100(OP001PF001AZ)
+ro.build.display.id=X6851B-15.0.3.116SP09(OP001PF001AZ)
+ro.build.date.utc=1746068767
+ro.build.date=Thu May  1 11:06:07 CST 2025
+ro.build.version.incremental=116144
+ro.com.google.clientidbase=android-transsion
+ro.tran_wifi_sar.support=1
+ro.os.aam.path=/tr_product/etc/transsion_prebuilt/aam_config.json
+ro.tecno.manual_guide_support = Infinix-X6851B
+ro.tecno.manual_guide_multi_country_support=1
+ro.os_game_magic_voice.support=1
+# end of file
