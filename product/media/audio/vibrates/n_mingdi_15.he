@@ -1,0 +1,87 @@
+{
+    "Metadata": {
+        "Created": "2024-09-20",
+        "Description": "Exported from RichTap Creator Pro",
+        "Version": 2
+    },
+    "PatternList": [
+        {
+            "AbsoluteTime": 76,
+            "Pattern": [
+                {
+                    "Event": {
+                        "Duration": 158,
+                        "Index": 0,
+                        "Parameters": {
+                            "Curve": [
+                                {
+                                    "Frequency": 0,
+                                    "Intensity": 0,
+                                    "Time": 0
+                                },
+                                {
+                                    "Frequency": 0,
+                                    "Intensity": 1,
+                                    "Time": 6
+                                },
+                                {
+                                    "Frequency": 0,
+                                    "Intensity": 0.9,
+                                    "Time": 38
+                                },
+                                {
+                                    "Frequency": 0,
+                                    "Intensity": 0.2,
+                                    "Time": 52
+                                },
+                                {
+                                    "Frequency": 0,
+                                    "Intensity": 0,
+                                    "Time": 158
+                                }
+                            ],
+                            "Frequency": 50,
+                            "Intensity": 100
+                        },
+                        "RelativeTime": 0,
+                        "Type": "continuous"
+                    }
+                },
+                {
+                    "Event": {
+                        "Duration": 917,
+                        "Index": 0,
+                        "Parameters": {
+                            "Curve": [
+                                {
+                                    "Frequency": 0,
+                                    "Intensity": 0,
+                                    "Time": 0
+                                },
+                                {
+                                    "Frequency": 0,
+                                    "Intensity": 1,
+                                    "Time": 1
+                                },
+                                {
+                                    "Frequency": 0,
+                                    "Intensity": 1,
+                                    "Time": 916
+                                },
+                                {
+                                    "Frequency": 0,
+                                    "Intensity": 0,
+                                    "Time": 917
+                                }
+                            ],
+                            "Frequency": 50,
+                            "Intensity": 100
+                        },
+                        "RelativeTime": 175,
+                        "Type": "continuous"
+                    }
+                }
+            ]
+        }
+    ]
+}

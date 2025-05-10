@@ -1,0 +1,25 @@
+{
+    "Metadata": {
+        "Created": "2024-10-12",
+        "Description": "A2H .HE2.0 format",
+        "Version": 2
+    },
+    "PatternList": [
+        {
+            "AbsoluteTime": 0,
+            "Pattern": [
+                {
+                    "Event": {
+                        "Index": 0,
+                        "Parameters": {
+                            "Frequency": 55,
+                            "Intensity": 100
+                        },
+                        "RelativeTime": 0,
+                        "Type": "transient"
+                    }
+                }
+            ]
+        }
+    ]
+}

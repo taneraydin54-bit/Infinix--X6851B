@@ -1,0 +1,59 @@
+{
+  "version":4,
+  "up_time":20250120,
+  "switch":true,
+  "ram_2": {
+    "ram_enable":false,
+    "save_recent_task_for_camera_max": -1,
+    "save_recent_task_for_camera_min": -1,
+    "avail_ram_percent": -1,
+    "avail_ram_percent_sub": -1,
+    "autoStart_white_list": [
+    ]
+  },
+  "ram_3": {
+    "ram_enable":false,
+    "save_recent_task_for_camera_max":-1,
+    "save_recent_task_for_camera_min": -1,
+    "avail_ram_percent": -1,
+    "avail_ram_percent_sub": -1,
+    "autoStart_white_list": [
+    ]
+  },
+  "ram_4": {
+    "ram_enable":true,
+    "save_recent_task_for_camera_max": 3,
+    "save_recent_task_for_camera_min": 2,
+    "avail_ram_percent": 30,
+    "avail_ram_percent_sub": 20,
+    "autoStart_white_list": [
+    ]
+  },
+  "ram_6": {
+    "ram_enable":true,
+    "save_recent_task_for_camera_max": 3,
+    "save_recent_task_for_camera_min": 2,
+    "avail_ram_percent": 36,
+    "avail_ram_percent_sub": 28,
+    "autoStart_white_list": [
+    ]
+  },
+  "ram_8": {
+    "ram_enable":true,
+    "save_recent_task_for_camera_max": 4,
+    "save_recent_task_for_camera_min": 3,
+    "avail_ram_percent": 30,
+    "avail_ram_percent_sub": 20,
+    "autoStart_white_list": [
+    ]
+  },
+  "ram_12": {
+    "ram_enable":true,
+    "save_recent_task_for_camera_max": 5,
+    "save_recent_task_for_camera_min": 4,
+    "avail_ram_percent": 30,
+    "avail_ram_percent_sub": 20,
+    "autoStart_white_list": [
+    ]
+  }
+}

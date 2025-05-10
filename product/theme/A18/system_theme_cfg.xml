@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<Document>
+<theme-info>
+    <id>-99</id>
+    <name>Radiant</name>
+    <filename>Xtheme_newA18.apk</filename>
+	<string-id>XOS_newA18</string-id>
+    <filepath>product/theme/Xtheme_newA18/Xtheme_newA18.apk</filepath>
+</theme-info>
+<theme-info>
+    <id>-12</id>
+    <name>Future of Asteroids</name>
+    <filename>Xtheme_newFuture.apk</filename>
+	<string-id>XOS_newFuture</string-id>
+    <filepath>product/theme/Xtheme_newFuture/Xtheme_newFuture.apk</filepath>
+</theme-info>
+<theme-info>
+    <id>-13</id>
+    <name>Spirit World</name>
+    <filename>Xtheme_SpiritWorld.apk</filename>
+	<string-id>XOS_SpiritWorld</string-id>
+    <filepath>product/theme/Xtheme_SpiritWorld/Xtheme_SpiritWorld.apk</filepath>
+</theme-info>
+</Document>

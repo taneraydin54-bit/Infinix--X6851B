@@ -1,0 +1,334 @@
+  {
+    "version": "1.0",
+    "update": 20240805,
+    "enable": true,
+    "config": [
+      {
+        "metirc": "startup",
+        "enable": true,
+        "sampling_interval": 20,
+        "default_threshold": [
+          {
+            "cold": 4000,
+            "hot": 2000
+          }
+        ],
+        "customized_tne": [
+          {
+            "id": "com.android.settings",
+            "sampling_interval":20,
+            "enable": true,
+            "threshold": [
+              {
+                "cold": 4000,
+                "hot": 2000
+              }
+            ]
+          },
+          {
+            "id": "com.zhiliaoapp.musically",
+            "sampling_interval": 20,
+            "enable": true,
+            "threshold": [
+              {
+                "cold": 4000,
+                "hot": 2000
+              }
+            ]
+          },
+         {
+            "id": "com.whatsapp.w4b",
+            "sampling_interval": 20,
+            "enable": true,
+            "threshold": [
+              {
+                "cold": 4000,
+                "hot": 2000
+              }
+            ]
+          },
+          {
+            "id": "com.whatsapp",
+            "sampling_interval": 20,
+            "enable": true,
+            "threshold": [
+              {
+                "cold": 4000,
+                "hot": 2000
+              }
+            ]
+          },
+          {
+            "id": "com.google.android.youtube",
+            "sampling_interval": 20,
+            "enable": true,
+            "threshold": [
+              {
+                "cold": 4000,
+                "hot": 2000
+              }
+            ]
+          },
+          {
+            "id": "com.facebook.katana",
+            "sampling_interval": 20,
+            "enable": true,
+            "threshold": [
+              {
+                "cold": 4000,
+                "hot": 2000
+              }
+            ]
+          },
+          {
+            "id": "com.instagram.android",
+            "sampling_interval": 20,
+            "enable": true,
+            "threshold": [
+              {
+                "cold": 4000,
+                "hot": 2000
+              }
+            ]
+          },
+          {
+            "id": "com.ss.android.ugc.aweme",
+            "sampling_interval": 20,
+            "enable": true,
+            "threshold": [
+              {
+                "cold":4000,
+                "hot": 2000
+              }
+            ]
+          },
+          {
+            "id": "com.sh.smart.caller",
+            "sampling_interval": 20,
+            "enable": true,
+            "threshold": [
+              {
+                "cold": 4000,
+                "hot": 2000
+              }
+            ]
+          },
+          {
+            "id": "com.android.chrome",
+            "sampling_interval": 20,
+            "enable": true,
+            "threshold": [
+              {
+                "cold": 4000,
+                "hot": 2000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "metirc": "latency",
+        "enable":false,
+        "sampling_interval": 30,
+        "default_threshold": 1000,
+        "customized_tne": [
+          {
+            "id": 0,
+            "enable": true,
+            "sampling_interval": 30,
+            "threshold": 1000
+          },
+          {
+            "id": 1,
+             "enable": true,
+            "sampling_interval": 30,
+            "threshold":1000
+          },
+          {
+            "id": 3,
+             "enable": true,
+            "sampling_interval": 30,
+            "threshold":1000
+          },
+          {
+            "id": 4,
+             "enable": true,
+            "sampling_interval": 30,
+            "threshold":1000
+          },
+          {
+            "id": 5,
+            "enable": true,
+            "sampling_interval": 30,
+            "threshold": 1000
+          },
+          {
+            "id": 6,
+             "enable": true,
+            "sampling_interval": 30,
+            "threshold":1000
+          },
+          {
+            "id": 8,
+             "enable": true,
+            "sampling_interval": 30,
+            "threshold":1000
+          },
+          {
+            "id": 11,
+             "enable": true,
+            "sampling_interval": 30,
+            "threshold":1000
+          },
+          {
+            "id": 20,
+            "enable": true,
+            "sampling_interval": 30,
+            "threshold": 1000
+          },
+          {
+            "id": 21,
+             "enable": true,
+            "sampling_interval":30,
+            "threshold":1000
+          }
+        ]
+      },
+      {
+        "metirc": "jank",
+        "enable": true,
+        "sampling_interval": 60,
+        "default_threshold": 200,
+        "customized_tne": [
+          {
+            "id": 0,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold":200
+          },
+          {
+            "id": 5,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold":200
+          },
+          {
+            "id": 7,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold":200
+          },
+          {
+            "id": 8,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold": 200
+          },
+          {
+            "id": 9,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold":200
+          },
+          {
+            "id": 12,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold": 200
+          },
+          {
+            "id": 13,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold":200
+          },
+          {
+            "id": 14,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold": 200
+          },
+          {
+            "id": 15,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold":200
+          },
+          {
+            "id": 17,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold": 200
+          },
+          {
+            "id": 20,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold":200
+          },
+          {
+            "id": 28,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold":200
+          },
+          {
+            "id": 29,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold": 200
+          },
+          {
+            "id": 39,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold":200
+          },
+          {
+            "id": 55,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold":200
+          },
+          {
+            "id": 20,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold":200
+          },
+          {
+            "id": 10001,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold": 200
+          },
+          {
+            "id": 10002,
+             "enable": true,
+            "sampling_interval": 60,
+            "threshold":200
+          },
+          {
+            "id": 10304,
+             "enable": false,
+            "sampling_interval": 60,
+            "threshold":200
+          }
+        ]
+      },
+      {
+        "metirc": "transition",
+        "enable": true,
+        "sampling_interval": 30,
+        "default_threshold":1000,
+        "customized_tne": [
+          {
+            "id": "com.android.settings",
+             "enable": true,
+            "sampling_interval": 30,
+            "threshold":1000
+          }
+        ]
+      }
+    ]
+  }

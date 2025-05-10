@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sar_countrys version="1">
+    <!-- CE -->
+    <SAR_COUNTRY Category="CE" Country="EG"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="UA"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="PL"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="CZ"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="SK"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="GR"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="RO"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="HU"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="BY"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="LT"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="EE"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="LV"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="HR"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="RS"></SAR_COUNTRY>
+    <SAR_COUNTRY Category="CE" Country="BA"></SAR_COUNTRY>
+
+
+    <!-- ID -->
+    <SAR_COUNTRY Category="ID" Country="ID"></SAR_COUNTRY>
+</sar_countrys>

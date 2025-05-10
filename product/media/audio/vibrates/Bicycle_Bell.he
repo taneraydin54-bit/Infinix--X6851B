@@ -1,0 +1,108 @@
+{
+    "Metadata": {
+        "Created": "2024-09-12",
+        "Description": "Exported from RichTap Creator Pro",
+        "Version": 2
+    },
+    "PatternList": [
+        {
+            "AbsoluteTime": 39,
+            "Pattern": [
+                {
+                    "Event": {
+                        "Type": "continuous",
+                        "RelativeTime": 0,
+                        "Parameters": {
+                            "Intensity": 100,
+                            "Frequency": 0,
+                            "Curve": [
+                                {
+                                    "Time": 0,
+                                    "Intensity": 0,
+                                    "Frequency": 45
+                                },
+                                {
+                                    "Time": 5,
+                                    "Intensity": 1,
+                                    "Frequency": 45
+                                },
+                                {
+                                    "Time": 30,
+                                    "Intensity": 0.9,
+                                    "Frequency": 45
+                                },
+                                {
+                                    "Time": 40,
+                                    "Intensity": 0.4,
+                                    "Frequency": 8
+                                },
+                                {
+                                    "Time": 85,
+                                    "Intensity": 0.05,
+                                    "Frequency": 10
+                                },
+                                {
+                                    "Time": 86,
+                                    "Intensity": 0,
+                                    "Frequency": 8
+                                }
+                            ]
+                        },
+                        "Duration": 86,
+                        "Index": 0
+                    }
+                },
+                {
+                    "Event": {
+                        "Type": "transient",
+                        "RelativeTime": 116,
+                        "Parameters": {
+                            "Intensity": 79,
+                            "Frequency": 50
+                        },
+                        "Index": 0
+                    }
+                },
+                {
+                    "Event": {
+                        "Type": "continuous",
+                        "RelativeTime": 142,
+                        "Parameters": {
+                            "Intensity": 68,
+                            "Frequency": 30,
+                            "Curve": [
+                                {
+                                    "Time": 0,
+                                    "Intensity": 0,
+                                    "Frequency": 0
+                                },
+                                {
+                                    "Time": 6,
+                                    "Intensity": 1,
+                                    "Frequency": 0
+                                },
+                                {
+                                    "Time": 7,
+                                    "Intensity": 1,
+                                    "Frequency": -39
+                                },
+                                {
+                                    "Time": 148,
+                                    "Intensity": 0.24,
+                                    "Frequency": -39
+                                },
+                                {
+                                    "Time": 966,
+                                    "Intensity": 0,
+                                    "Frequency": -39
+                                }
+                            ]
+                        },
+                        "Duration": 966,
+                        "Index": 0
+                    }
+                }
+            ]
+        }
+    ]
+}

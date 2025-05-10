@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns:android="http://schemas.android.com/apk/res/android">
+    <theme filename="Xtheme_C45.apk" shape_support="false"/>
+    <theme filename="Xtheme_newFuture.apk" shape_support="false"/>
+    <theme filename="Xtheme_newPubg.apk" shape_support="false"/>
+    <theme filename="Xtheme_SpiritWorld.apk" shape_support="false"/>
+</Document>
