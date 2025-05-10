@@ -1,0 +1,16 @@
+{
+"v":"v1.1",
+"m":"n",
+"t":"20240409",
+"FUNCTION_REFUSEMEDIAFOCUS":["enable","com.rd.tengfei.bdnotification"],
+"FUNCTION_MULITIPLEPLAY":["enable","com.zhiliaoapp.musically.go","com.ttee.leeplayer"],
+"FUNCTION_FADEOUTIN":["enable","com.whatsapp"],
+"FUNCTION_MUTEAPPINPHONE":["enable","com.facebook.katana","com.ss.android.article.news","com.facebook.lite","com.snapchat.android","com.king.candycrushsaga","com.roblox.client","com.firsttouchgames.dls7","com.zhiliaoapp.musically","com.ss.android.ugc.trill","com.zhiliaoapp.musically.go"],
+"FUNCTION_ADDPERFORMANCE":["enable","com.king.candycrushsaga"],
+"FUNCTION_STOPPLAYBACK":["enable","com.facebook.katana","com.instagram.android","com.twitter.android"],
+"FUNCTION_REQUEST_MAY_DUCK":["enable","com.tran.x"],
+"FUNCTION_UPDATE_GAIN":["enable","com.tran.x"],
+"FUNCTION_UPDATE_MAY_DUCK":["enable","com.tran.x"],
+"FUNCTION_RECODER_FOCUS":["enable","com.ss.android.lark.transsion"],
+"FUNCTION_ZERO_SOUND_DETECT":["enable","com.android.systemui","com.android.settings","com.transsion.magicshow","com.transsion.gamespace.app","com.transsion.fmradio","com.google.android.apps.youtube.music","com.afmobi.boomplayer"]
+}
