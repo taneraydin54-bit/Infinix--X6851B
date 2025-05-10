@@ -1,0 +1,31 @@
+<trans_sched.config version="2.0" encoding="UTF-8" enable="0x1F">
+<!-- "enable": trans_sched state ==> 0x01/0x03:on, 0x00:off -->
+    <uxtag  default="UX_TASK_TAGS_DEFAULT" uxtag_nr="21">
+    <!-- "default": default value of uxtags for task; "uxtag_nr": quantity of instance below-->
+        <instance name="ux_exact_test" value="UX_TASK_TAGS_EDROP2_L"/>
+        <instance name="wmshell.anim" value="UX_TASK_TAGS_EPROMOTE1"/>
+        <instance name="android.ui" value="UX_TASK_TAGS_EXACT"/>
+        <instance name="ux_exact_audiomixer" value="UX_TASK_TAGS_EPROMOTE2"/>
+        <instance name="ux_exact_camlaunch" value="UX_TASK_TAGS_EDROP1"/>
+        <instance name="fingerprint-anim" value="UX_TASK_TAGS_EXACT"/>
+        <instance name="ux_exact_screen_shot" value="UX_TASK_TAGS_EXACT"/>
+        <instance name="ux_exact_android.anim" value="UX_TASK_TAGS_EXACT"/>
+        <instance name="ux_exact_systemui_sfanim" value="UX_TASK_TAGS_EPROMOTE1"/>
+        <instance name="ux_exact_launcher" value="UX_TASK_TAGS_DPROMOTE1"/>
+        <instance name="com.transsion.XOSLauncher" value="UX_TASK_TAGS_DPROMOTE1"/>
+        <instance name="com.transsion.hilauncher" value="UX_TASK_TAGS_DPROMOTE1"/>
+        <instance name="com.transsion.itel.launcher" value="UX_TASK_TAGS_DPROMOTE1"/>
+        <instance name="ux_exact_wmshell.main" value="UX_TASK_TAGS_EPROMOTE1"/>
+        <instance name="ux_exact_insets_anim" value="UX_TASK_TAGS_EXACT"/>
+        <instance name="ux_exact_popup_anim" value="UX_TASK_TAGS_EXACT"/>
+        <instance name="ux_exact_gsearch" value="UX_TASK_TAGS_EXACT"/>
+        <instance name="ux_exact_livewallpaper" value="UX_TASK_TAGS_EXACT"/>
+        <instance name="ux_exact_gclauncher" value="UX_TASK_TAGS_EDROP1"/>
+        <instance name="ux_exact_aizs" value="UX_TASK_TAGS_EXACT"/>
+        <instance name="ux_exact_aizswork" value="UX_TASK_TAGS_EXACT"/>
+    </uxtag>
+    <blacklist black_nr="1">
+    <!-- "black_nr": quantity of instance below-->
+        <instance name="com.transsion.sk"/>
+    </blacklist>
+</trans_sched.config>

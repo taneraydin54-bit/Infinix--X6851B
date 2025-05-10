@@ -1,0 +1,23 @@
+{
+    "featureConfig": {
+        "tranfac.sensor.fingerprint.optical": "",
+        "tranfac.usb.charge.rfc": "",
+        "tranfac.usb.charge.wireless": "",
+        "tranfac.other.rgb_led": "",
+        "tranfac.other.rgb_led.always": "",
+        "tranfac.audio.speaker.num": "2",
+        "tranfac.audio.mic.num": "2",
+        "tranfac.sensor.proximity.ultrasound": "",
+        "tranfac.sensor.sar": "",
+        "tranfac.sensor.light_main": "UnderScreen|SensorTek|Cutout|V1_0_0",
+        "tranfac.usb.charge.reverse": "10",
+        "tranfac.camera.dual.arcsoft": "",
+        "tranfac.camera.dummy.front": "",
+        "tranfac.camera.dummy.yuv_index": "0",
+        "tranfac.camera.dummy.yuv2_index": "0",
+        "tranfac.camera.flashlight.front": "",
+        "tranfac.connect.gps": "",
+        "tranfac.connect.fm": "",
+        "tranfac.other.rgb_led_old": ""
+    }
+}
